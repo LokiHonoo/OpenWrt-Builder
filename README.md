@@ -4,9 +4,9 @@
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
-Fork from template [https://github.com/P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt).
+Generated from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt).
 
-[Contents(中文)](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+[Contents(中文)](https://p3terx.com/archives/build-openwrt-with-github-actions.html).
 
 ## Usage
 
